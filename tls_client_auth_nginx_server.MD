@@ -1,4 +1,4 @@
-### How to build web server to do tls client authentication?
+### How to build a web server to do tls client authentication?
 
 Stack
 - Nginx
